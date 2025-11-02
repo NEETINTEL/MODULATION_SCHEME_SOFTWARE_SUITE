@@ -10,4 +10,4 @@ Functions:
 2. **Encode TXT → BMP → WEFAX WAV**  
    Convert plain text `.TXT` files into greyscale `.BMP` images, then encode those images into WEFAX `.WAV` files.
 3. **Decode WEFAX WAV → BMP**  
-   Decode received WEFAX `.wav` audio signals into greyscale `.BMP` images.
+   Decode received WEFAX `.WAV` audio signals into greyscale `.BMP` images.
